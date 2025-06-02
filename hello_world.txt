@@ -1,0 +1,2 @@
+I am going to write something here and then add this file and all current files to the
+staging area
